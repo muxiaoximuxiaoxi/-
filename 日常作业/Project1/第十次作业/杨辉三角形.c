@@ -1,3 +1,9 @@
+//在屏幕上打印杨辉三角。 
+//1 
+//1 1 
+//1 2 1 
+//1 3 3 1 
+
 #include<stdio.h>
 #include<stdlib.h>
 #define NUM 10
